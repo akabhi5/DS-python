@@ -93,6 +93,6 @@ while True:
     if choice == 5:
         linkedlist.getSize()
     if choice == 0:
-        exit()
+        exit(0)
     
     
